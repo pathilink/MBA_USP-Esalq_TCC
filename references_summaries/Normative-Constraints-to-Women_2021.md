@@ -111,4 +111,8 @@ nearly half of MiBank’s accounts." (Center for Financial Inclusion, 2021, p. 1
 
 ## 6. Análise geral da obra destacando as concordâncias e discordâncias com a proposta de pesquisa
 
+A obra assinala a necessidade de alteração de normas sociais mas não define as métricas ou como medi-las, somente que é importante realizar pesquisas e acompanhar as mudanças.
+
 ## 7. Argumentação de justificativa do possível uso da obra na pesquisa
+
+O empoderamento econômico depende da inclusão financeira das mulheres, isso somente é possível ocorrer quando as normas sociais vigentes mudarem. Assim, faz-se necessário descobrir o que funciona e como funciona, o que exige saber o que medir e acompanhar o seu histórico.
