@@ -26,6 +26,16 @@ Mesmo com acesso ao financiamento, estas instituições descobriram que o dinhei
 
 O canal de acesso a um produto financeiro também pode ser instrumento de empoderamento financeiro feminino. A tecnologia mobile permite com que as mulheres acessem esses produtos com privacidade (evita a cooptação do dinheiro por familiares) e sem necessidade de locomoção (economia de tempo).
 
+As autoras sugerem algumas soluções:
+
+* Ao invés de criar produtos financeiros indiferentes a gênero, criá-los pensando nas necessidades do gênero feminino e em seu contexto - opt-in de envio de sms para mulheres que compartilham o celular mas não querem compartilhar a movimentação financeira; não cobrar taxas de abertura e/ou não utilização da conta.
+
+* Mudar a estratégia de comunicação - prover educação financeira; desafiar estereótipos; aumentar a auto-estima feminina.
+
+* Envolver os guardiões das normas (_gatekeepers_) na mudança do que é e o que não é um comportamento aceitável - se o líder comunitário participa, outros o seguem.
+
+É importante medir e acompanhar o que funciona ou não na alteração das normas sociais que impedem as mulheres de atingirem o empoderamento econômico.
+
 ## 4. Definições de termos e conceitos
 
 **Empoderamento econômico das mulheres (EEM):** condição que se obtem após ter sido negada a possibilidade de fazer escolhas na vida. A mulher deve possuir condições financeiras para viver e influenciar as estruturas (de mercado e de governo) que influenciam a própria vida.
@@ -84,6 +94,20 @@ activities. Interestingly, these findings were
 strongest among groups that experienced more
 restrictive norms around mobility, such as religious
 communities and lower caste groups." (Center for Financial Inclusion, 2021, p. 16)
+
+> "The removal of fees was also aimed
+at reducing objections from husbands or family
+members to women opening accounts based
+on cost. In addition to these features, MiBank
+simultaneously introduced female-friendly
+communication channels by opening a WhatsApp
+group of all account holders at each bank branch
+and recruiting and training female agents. 52 MiBank
+has seen sustained women’s account activity in
+areas where they have female agents, a result of
+giving women an in-person touchpoint. 53 Now, the
+women-only Hibiscus mobile wallets comprise
+nearly half of MiBank’s accounts." (Center for Financial Inclusion, 2021, p. 18)
 
 ## 6. Análise geral da obra destacando as concordâncias e discordâncias com a proposta de pesquisa
 
