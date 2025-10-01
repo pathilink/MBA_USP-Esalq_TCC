@@ -62,34 +62,65 @@ The study used data from the **World Bank (Global Findex 2021)** to classify pro
     
     
 
-3. **Validation and Interpretation of Clusters**  
-   - Seleção das variáveis mais significativas (idade, escolaridade, renda, uso de contas digitais, recebimento de salário etc.)  
-   - [imagem "4"] – Principais variáveis diferenciadoras  
+3. **Selection of the most important variables**  
+   - Significant variables are understood to be those with the greatest variation in centroids, i.e., how the variable behaved in different clusters.
+  
+    | Variable     | Label | Note |
+    |:-------------|:------|:-----|
+    | age          | Age of the respondent | **Demographic and income information** |
+    | educ         | Educational level of the respondent |  |
+    | inc_q        | Household income quintile within the economy (Eurostat) |  |
+    | emp_in       | The respondent is in the labor market. |  |
+    | | | |
+    | receive_wages| You have received a salary payment | **Received salary** |
+    | fin33        | Received public sector salary payments |  |
+    | fin34a       | Received salary payments into an account |  |
+    | fin34b       | Received salary payments on a cell phone |  |
+    | | | |
+    | fin14_2      | Paid digitally for a purchase in a store for the first time after COVID-19 | **Used cell phone/Internet/card (debit or credit) to pay for purchase** |
+    | fin14c_2     | Paid online for a purchase for the first time after COVID-19 |  |
+    | | | |
+    | fin1_1a      | Opened the first account to receive a salary payment | **Account owner** |
+    | fin1_1b      | Opened the first account to receive money from the government |  |
+    | fin4         | Used a debit card |  |
+    | fin4a        | Used a debit card in a store |  |
+    | fin5         | Used a cell phone or the Internet to access the account |  |
+    | fin6         | Used a cell phone or the Internet to check account balance |  |
+    | fin7         | She has a credit card |  |
+    | fin8b        | Paid off the entire balance on the credit card |  |
+    | fin9         | She made any deposits into the account |  |
+    | fin9a        | Made deposits into the account two or more times per month |  |
+    | fin10        | Made withdrawals from the account |  |
+    | fin10a       | Made withdrawals from the account two or more times per month |  |
+    | fin10b       | Used the account to store money |  |
+
 
 ## 📊 Results
 
-Foram identificados **três clusters principais**:
+**Three main clusters** have been identified:
 
-- **Cluster 2 – Maior inclusão**  
-  Mulheres mais jovens, com ensino superior, no mercado de trabalho, maior acesso a serviços bancários e digitais.  
+- **Cluster 2 – Greater inclusion**  
+  Younger women with higher education, in the labor market, greater access to banking and digital services.  
 
-- **Cluster 1 – Inclusão intermediária**  
-  Mulheres de meia-idade, com conta em banco tradicional, mas dependentes de transferências governamentais.  
+- **Cluster 1 – Intermediate inclusion**  
+  Middle-aged women with traditional bank accounts but dependent on government transfers.  
 
-- **Cluster 0 – Menor inclusão**  
-  Mulheres mais velhas, com baixa utilização de serviços financeiros, poucas contas bancárias e sem acesso digital.  
+- **Cluster 0 – Less inclusion**  
+  Older women, with low use of financial services, few bank accounts, and no digital access.  
 
-[imagem "5"] – Distribuição dos clusters  
+The figure shows the first six variables that most differentiate the clusters. These characteristics indicate significant differences in patterns of financial service use among the clusters analyzed.
 
-## 📌 Conclusões
+![variables](img/variables_graphs.png)
 
-- A inclusão financeira é determinante para o **empoderamento feminino** e está ligada a fatores como renda, escolaridade e acesso digital.  
-- Políticas públicas e estratégias de mercado devem considerar os diferentes perfis identificados, priorizando os grupos menos incluídos.  
-- A análise sugere **quatro dimensões principais de mensuração**:  
-  1. Informações demográficas e de renda  
-  2. Recebimento de salário  
-  3. Uso de meios digitais/cartões  
-  4. Propriedade de conta bancária  
+## 📌 Conclusions
+
+- Financial inclusion is crucial for **women's empowerment** and is linked to factors such as income, education, and digital access.  
+- Public policies and market strategies should consider the different profiles identified, prioritizing the least included groups.  
+- The analysis suggests **four main dimensions of measurement**:  
+  1. Demographic and income information
+  2. Salary receipt
+  3. Use of digital media/cards
+  4. Bank account ownership  
 
 ## 🛠️ Technologies used
 
